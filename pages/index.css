@@ -184,7 +184,7 @@
   font-weight: 500;
 }
 
-.form__label_checkbox {
+.form__label_inline {
   display: flex;
   flex-direction: row;
   justify-content: center;
