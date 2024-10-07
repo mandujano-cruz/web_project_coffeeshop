@@ -9,7 +9,6 @@
   padding: 60px 80px 108px;
   display: flex;
   justify-content: space-between;
-  /* align-items: baseline; */
 }
 
 .footer__logo {
@@ -44,6 +43,13 @@
 .footer__social-link {
   text-decoration: none;
   color: #fff;
+  display: flex;
+  column-gap: 10px;
+}
+
+.footer__social-link:hover {
+  text-decoration: none;
+  color: #c1c1c1;
   display: flex;
   column-gap: 10px;
 }
