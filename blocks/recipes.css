@@ -1,10 +1,10 @@
-.content {
+/* .content {
   background-color: #0a2750;
   background-image: url("../images/background_recipes.svg");
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
-}
+} */
 
 .recipes {
   display: flex;
@@ -40,9 +40,9 @@
   height: 273px;
 }
 
-.video__caption {
+/* .video__caption {
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
   margin-top: 24px;
-}
+} */
