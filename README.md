@@ -1,13 +1,19 @@
-# Triple Espresso
+# ☕ Web Project: CoffeeShop
 
-Nombre del proyecto: web_project_coffeeshop
+**Descripción:**  
+Este proyecto es una landing page para una cafetería ficticia llamada *CoffeeShop*. El sitio presenta un diseño moderno y completamente responsivo, pensado para ofrecer una experiencia agradable tanto en dispositivos móviles como en escritorio. A través de imágenes atractivas, descripciones claras y un diseño limpio, se busca transmitir la esencia de una cafetería acogedora.
 
-Descripción del proyecto: Simulación de una cafetería dando referencias a funcionalidades de una cafetería real como muestra de recetas para el público y reservaciones que puedes realizar anticipadamente.
+---
 
-Las tecnologías usadas para la elaboración del proyecto fueron desde la estructura de HTML hasta la organización a nivel directorio de los archivos CSS y los estilos que se les dieron a cada una de las secciones que cuenta el proyecto. De igual manera se utilizaron pseudoclases para hacer un poco más dinámico la página al colocar el cursos en algunos de los enlaces que redirecciona. También se utilizó la función del posicionamiento absoluto para darle un toque diferente.
+## 🛠️ Tecnologías y técnicas utilizadas
 
-Se visualiza multimedia de otros sitios web donde se pueden interactuar sobre la misma página sin necesidad de tener los archivos de manera local para la visualización.
+- **HTML5 semántico:** Estructura clara y accesible del contenido.
+- **CSS3:** Estilos personalizados con enfoque en el diseño moderno.
+- **Flexbox y Grid Layout:** Sistema de diseño adaptable y flexible.
+- **Media Queries:** Para asegurar la correcta visualización en distintos dispositivos.
+- **Metodología BEM:** Organización y mantenimiento limpio de clases CSS.
+- **Responsive Design:** Optimización de la visualización en resoluciones comunes (320px, 768px, 1280px).
 
-Se realizó un formulario en donde se agregaron estilos y se detallaron para el llenado de información, ya sea para aceptar solo valores numericos como el ingresar un correo electrónico válido.
+---
 
-Planes de mejora del proyecto: Se planea hacer funcional el apartado del formulario para que envíe información y se visualice el comportamiento, al igual que poder crear una sección donde se pueda visualizar un menú en donde pueda mostrar lo que la caferería ofrece a sus clientes. Se realizará la actualización una vez teniendo las bases para su elaboración correcta.
+Para acceder a la página, abre el siguiente enlace: https://mandujano-cruz.github.io/web_project_coffeeshop/
